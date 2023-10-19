@@ -1,0 +1,27 @@
+/* Não exibe o botão adicionar ao carrinho, preço a vista e botão comprar (ASM HydraSynth Deluxe 73 Teclas) */
+
+.acoes-produto.disponivel.SKU-314 .comprar .qtde-adicionar-carrinho{
+    display: none;
+}
+
+.acoes-produto.disponivel.SKU-314 .botao.botao-comprar.principal.grande{
+    display: none;
+}
+
+.acoes-produto.disponivel.SKU-314 .text-parcelas.pull-right{
+    display: none;
+}
+
+.listagem-item.prod-id-185852694.prod-cat-17923093.prod-cat-18295152 .acoes-produto.hidden-phone{
+    display: none;
+}
+
+.pagina-produto.produto-185852694.tema-transparente.loja-pro.com-bread.cores-personalizadas.fundo-claro.cabecalho-claro.menu-escuro.news-escuro .produto-aproveite{
+    display: none;
+}
+
+.listagem-item.prod-id-185852694.prod-cat-17923093.prod-cat-18295152 .acoes-produto.hidden-phone .seletor{
+    display: none;
+}
+
+/* Final (ASM HydraSynth Deluxe 73 Teclas) */
