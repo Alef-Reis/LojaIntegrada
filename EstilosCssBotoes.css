@@ -1,6 +1,6 @@
 /* Não exibe o botão adicionar ao carrinho, preço a vista e botão comprar (ASM HydraSynth Deluxe 73 Teclas) */
 
-.acoes-produto.disponivel.SKU-314 .comprar .qtde-adicionar-carrinho{
+.acoes-produto.disponivel.SKU-315 .comprar .qtde-adicionar-carrinho{
     display: none;
 }
 
